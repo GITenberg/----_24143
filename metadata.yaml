@@ -1,0 +1,29 @@
+_repo: '----_24143'
+_version: 0.1.0
+alternative_title: Xing Cha Sheng Lan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fei, Xin
+    alias: 費信
+    birthdate: 1388
+    deathdate: 1433
+    gutenberg_agent_id: '26150'
+    url: http://www.gutenberg.org/2009/agents/26150
+    wikipedia: http://en.wikipedia.org/wiki/Fei_Xin
+description: ''
+gutenberg_issued: '2008-01-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24143'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Southeast Asia -- Description and travel -- Early works to 1800'
+title: 星槎勝覽
+url: http://www.gutenberg.org/ebooks/24143
